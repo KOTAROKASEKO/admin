@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601499947355",
+    "project_id": "fir-demo-a91b2",
+    "storage_bucket": "fir-demo-a91b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601499947355:android:56f90a9f05c419520fca7e",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTr8XiovkG1x6mD77z_CCrT5ZZENwouBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601499947355:android:e10a932a5aecf2e60fca7e",
+        "android_client_info": {
+          "package_name": "com.kotarokase.administrator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTr8XiovkG1x6mD77z_CCrT5ZZENwouBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
